@@ -36,20 +36,20 @@ https://opticrop-smart-agricultural-production-w84s.onrender.com
 
 https://github.com/lokii2109/OptiCrop-Smart-Agricultural-Production-Optimization-Engine
 
-### 🎥 Demo Video
-
-YOUR_VIDEO_LINK
-
----
 
 # 📸 Screenshots
 
-Add screenshots here after deployment.
-
 - Home Page
+- <img width="1896" height="907" alt="image" src="https://github.com/user-attachments/assets/8bb71700-c9a0-4784-b39f-7029ba65ef3e" />
+
 - Prediction Result
+- <img width="1702" height="780" alt="image" src="https://github.com/user-attachments/assets/4586491c-09de-4bae-9cbe-01a4f45f99c3" />
+
 - Soil Analysis
+- <img width="1211" height="226" alt="image" src="https://github.com/user-attachments/assets/21e3fb30-ed3c-42b3-86a0-ec46cd9f39a8" />
+
 - Recommendation Page
+<img width="1175" height="373" alt="image" src="https://github.com/user-attachments/assets/20d88920-6991-4dfc-80e9-b7f0233bd287" />
 
 ---
 
