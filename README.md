@@ -30,7 +30,7 @@ The application uses a **Random Forest Machine Learning model** trained on agric
 # 🚀 Quick Links
 
 ### 🌐 Live Application
-YOUR_RENDER_LINK
+https://opticrop-smart-agricultural-production-w84s.onrender.com
 
 ### 💻 GitHub Repository
 
